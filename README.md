@@ -1,2 +1,11 @@
-# Putian-privateExperimental-Middle-SchoolUniversal-wall
-莆田私立实验中学万能墙/表白墙
+# 莆田私立实验中学万能墙/表白墙
+# 有问题联系QQ1773511693
+# 使用方法如下
+1.复制压缩包到网站根目录
+2.解压
+3.修改inc/config.php的相关设置
+4.导入数据库localhost.sql
+5.后台域名是域名加/admin
+默认账号admin
+默认密码12345
+欢迎墙墙使用
